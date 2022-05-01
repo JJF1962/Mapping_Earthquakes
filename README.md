@@ -28,4 +28,7 @@ In the second part of the delivery two, we muts obtain a map showing all the Ear
 
 Finaly to deliver the third delivery Using the options from the Mapbox styles (Links to an external site.), add a third map style as a tile layer object to the challenge_logic.js file, add the map variable to the base layer object, started the Python server and launch the index.html file to obtain the dark map below, where there are three map styles, and displays the two earthquake data sets and the tectonic plate data.
 
-[This is and image](
+[This is and image](https://github.com/JJF1962/Mapping_Earthquakes/blob/main/Eartquake_Challenge/Resources/Delivery%203%20.PNG)
+
+# Conclussion and Summary
+Very challenging module that allow us to learn more about Data visualization and two new tools MapBox API's and Leaflet D3
