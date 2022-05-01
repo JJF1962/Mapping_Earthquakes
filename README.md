@@ -16,4 +16,8 @@ To deliver the challenge we use the following resources:
 # Results
 The first reult it was to provide a map with the earthquake and tectonic plate data as shown in the image below:
 
+[This is and image](https://github.com/JJF1962/Mapping_Earthquakes/blob/main/Eartquake_Challenge/Resources/Delivery%201.PNG)
+
+The second result consist in to provide a map using https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson, to provide the map show as follows
+
 [This is and image](
