@@ -1,6 +1,6 @@
 # Objective
 The objective of this project was to generate three interactive map of earthquakes, and its relation with maginitude, location and tectonic plates.
-# Reosurces
+# Resources
 To deliver the challenge we use the following resources:
 ## Softwares
 * Visual Studio Code
@@ -23,5 +23,9 @@ The second result consist in to provide a map using https://earthquake.usgs.gov/
 [This is and image](https://github.com/JJF1962/Mapping_Earthquakes/blob/main/Eartquake_Challenge/Resources/Major%20Eartquakes%20Deliver%202%20point%203.PNG)
 
 In the second part of the delivery two, we muts obtain a map showing all the Eartquakes, to do that, it was  added the major earthquake layer group variable to the map, i.e, majorEarthquakes.addTo(map), and then close the d3.json() callback, in VSA code we launched the index.html file and confirm that your map with the two earthquake data sets and tectonic plate data is similar to the following image. 
+
+[This is and image](https://github.com/JJF1962/Mapping_Earthquakes/blob/main/Eartquake_Challenge/Resources/Deliver%202.PNG)
+
+Finaly to deliver the third delivery Using the options from the Mapbox styles (Links to an external site.), add a third map style as a tile layer object to the challenge_logic.js file, add the map variable to the base layer object, started the Python server and launch the index.html file to obtain the dark map below, where there are three map styles, and displays the two earthquake data sets and the tectonic plate data.
 
 [This is and image](
